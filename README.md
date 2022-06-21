@@ -6,7 +6,7 @@ Student Programmer & Developer
 
 I have been involved in programming for the past year or so, starting off with LUA for small game modding/development. I currently program with Python and am aspiring to learn JAVA soon too!
 
-* 🌍  I'm based in Sugar Land
+* 🌍  I'm based in the Greater Houston Area
 * 🖥️  See my portfolio at [https://sites.google.com/view/vishistsportfolio/main-page](http://https://sites.google.com/view/vishistsportfolio/main-page)
 * ✉️  You can contact me at [vishistsantanam@gmail.com](mailto:vishistsantanam@gmail.com)
 * 🧠  I'm learning Java
