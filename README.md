@@ -1,7 +1,7 @@
 Hi 👋 My name is Vishist Santanam
 =================================
 
-Student Programmer & Developer
+High School Student Programmer & Developer
 ------------------------------
 
 I have been involved in programming for the past year or so, starting off with LUA for small game modding/development. I currently program with Python and am aspiring to learn JAVA soon too!
